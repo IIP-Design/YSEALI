@@ -1,0 +1,31 @@
+# Wordpress
+wp/
+wp-content/cache
+wp-content/plugins
+wp-content/themes
+wp-content/uploads
+wp-content/debug.log
+wp-content/themes_backup
+wp-content/themes-dis
+wp-content/upgrade
+
+# wordpress-mu-domain-mapping
+wp-content/sunrise.php
+
+# wordpress-query-monitor
+wp-content/db.php
+
+# Composer
+vendor
+
+
+# SQL Dumsp
+*.sql
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+.Trashes
+Thumbs.db
+*.scssc
